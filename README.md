@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldrian Barias</h1>
-A passionate developer with experience creating software, websites, and scripts for clients. I currently a senior student in Cavite State University - Imus Campus. Every time I have some free time, I like to create code snippets or scripts to use in my daily duties to solve difficulties. Since I was in senior high school, I have created a lot of websites and software. I am currently a fourth-year IT student and a developer with experience creating software, websites, and scripts for the needs of clients. Every time I have some free time, I like to create code snippets or scripts to use in my daily duties to solve difficulties. I created a lot of websites and software during my senior year of high school.
-
+A passionate developer with experience creating software, websites, and scripts for clients. I currently a fourth-year IT student in Cavite State University - Imus Campus. Every time I have some free time, I like to create code snippets or scripts to use in my daily duties to solve difficulties. Since I was in senior high school, I have created a lot of websites and software.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AvB952002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldrian-barias-18ba10233) [![](https://visitcount.itsvg.in/api?id=AvB2002&icon=0&color=0)](https://visitcount.itsvg.in)
